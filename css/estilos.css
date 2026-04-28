@@ -7,10 +7,14 @@ body{
 
 table {
     border-collapse: collapse;
+    width: 80%; 
+    margin: 20px auto; 
 }
 
 th, td {
     text-align: center;
+    border: 1px solid #1a4b8c; 
+    padding: 10px; 
 }
 
 th {
